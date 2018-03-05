@@ -1,38 +1,38 @@
 {
-  "Intro" : [
+"Intro" : [
   {
   "paragraph1" : "Success is a very complex concept if you really analyze it.  If you ask everyone in America what their definition of success is, you would probably get 300 million answers.  My question is simple.  Is there a true definition of succuss, and if there is, what is it?",
   "paragraph2" : "The first person I interviewed is my mother.  She is the person that shaped a lot of the things that I used to believe growing up.  I think a lot differently now, so there's a lot that we don't see eye to eye on.  I can't say I agree or disagree with her response though.",
   "paragraph3" : "The second person I interviewed is my dad.  He is a person I get compared to a lot, and people say we have a lot in common.  He answeres a lot of my questions about life, and is probably responsible for at least a fourth of the wisdom that I have.  I didn't get to record the audio since we talked over the phone but I have his quote.",
   "paragraph4" : "After I did these two interviews, I decided to record my own version of the definition of success before it could get too influenced by other people.  I recorded mine at a random time in the morning when my thought process is just starting to flow, but nobody's bothered me so it's the best chamce of getting an accurate representation of how my mind works.",
   "paragrahp5" : "The next person I wanted to talk to was Mr. Pon Juan.  I wanted to talk to him because he helped me out a lot throughout my high school years.  He gave me the confidence to come out of my shell, start rapping, pursue my love, and start really working on my music.  He's the reason I can rap in front of people today.  For this reason he will forever be my favorite teacher.",
-   "paragraph6" : "The last person I wanted to talk to is Ms. Eich.  Even though I've had a lot of moments in her class both bad and good, she's given me a lot of wisdom.  When I finally realized that America isn't as good as it seems, she told me a lot that helped me better understand things, and gave me words that stopped me from doing stupid things that probably would have gotten me in trouble.  I have appreciation for what she's taught me, and I will carry those lessons until the day the name Jason Collins gets put on a headstone.",
+   "paragraph6" : "The last person I wanted to talk to is Ms. Eich.  Even though I've had a lot of moments in her class both bad and good, she's given me a lot of wisdom.  When I finally realized that America isn't as good as it seems, she told me a lot that helped me better understand things, and gave me words that stopped me from doing stupid things that probably would have gotten me in trouble.  I have appreciation for what she's taught me, and I will carry those lessons until the day the name Jason Collins gets put on a headstone."
   }
-  ]
-  "Success" [
+  ],
+  "Success": [
     {
       "name" : "Dwanna Collins",
       "RoleInMyLife" : "Mother",
       "ImportanceInMyLife" : "put me on a good path early",
-      "DefinitionOfSuccess" : "audio link ",
+      "DefinitionOfSuccess" : "audio link "
       },
     {
       "name" : "Jason Hood",
       "RoleInMyLife" : "Father",
       "ImportanceInMyLife" : "first person to teach me important life lessons, tells me things I need to hear, want to hear, and don't want to work",
-      "DefinitionOfSuccess" : "10 two letter words make up the meaning of success.  If it is to be, it is up to me.  God is in control of the results but I have to make the decision to choose Him and His way, no matter what people think or say about me.  My definition should have been the same when I was young because my parents, teachers, family, pastor, everyone instilled it it in me.  But I didn't think they understood and chose to try and impress people, or tried to take shortcuts, or refused guidance from people who did the right things the right ways.",
+      "DefinitionOfSuccess" : "10 two letter words make up the meaning of success.  If it is to be, it is up to me.  God is in control of the results but I have to make the decision to choose Him and His way, no matter what people think or say about me.  My definition should have been the same when I was young because my parents, teachers, family, pastor, everyone instilled it it in me.  But I didn't think they understood and chose to try and impress people, or tried to take shortcuts, or refused guidance from people who did the right things the right ways."
     },
      {
       "name" : "Jason Collins",
       "RoleInMyLife" : "Me",
       "ImportanceInMyLife" : "trying to figure out how to live life",
-      "DefinitionOfSuccess" : "audio link ",
+      "DefinitionOfSuccess" : "audio link "
       },
     {
       "name" : "Jorge Ponjuan",
       "RoleInMyLife" : "Favorite teacher",
       "ImportanceInMyLife" : "the person to help me break out of my shell and start rapping",
-      "DefinitionOfSuccess" : "audio link ",
+      "DefinitionOfSuccess" : "audio link "
       }
    
  ]
