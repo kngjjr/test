@@ -11,16 +11,29 @@
   ]
   "Success": [
     {
-      "name" : "DwannaCollins",
+      "name" : "Dwanna Collins",
       "RoleInMyLife" : "Mother",
       "ImportanceInMyLife" : "put me on a good path early",
       "DefinitionOfSuccess" : "audio link ";
       },
     {
-      "name" : "JasonHood",
+      "name" : "Jason Hood",
       "RoleInMyLife" : "Father",
       "ImportanceInMyLife" : "first person to teach me important life lessons, tells me things I need to hear, want to hear, and don't want to work",
-      
+      "DefinitionOfSuccess" : "10 two letter words make up the meaning of success.  If it is to be, it is up to me.  God is in control of the results but I have to make the decision to choose Him and His way, no matter what people think or say about me.  My definition should have been the same when I was young because my parents, teachers, family, pastor, everyone instilled it it in me.  But I didn't think they understood and chose to try and impress people, or tried to take shortcuts, or refused guidance from people who did the right things the right ways.",
+    },
+     {
+      "name" : "Jason Collins",
+      "RoleInMyLife" : "Me",
+      "ImportanceInMyLife" : "trying to figure out how to live life",
+      "DefinitionOfSuccess" : "audio link ";
+      },
+    {
+      "name" : "Jorge Ponjuan",
+      "RoleInMyLife" : "Favorite teacher",
+      "ImportanceInMyLife" : "the person to help me break out of my shell and start rapping",
+      "DefinitionOfSuccess" : "audio link ";
+      },
    },
  ]
 }
